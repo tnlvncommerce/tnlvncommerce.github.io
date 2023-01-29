@@ -113,10 +113,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
 <body class="error404 group-blog hfeed" data-spy="scroll" data-target=".navbar" data-offset="50">
-        <!-- Preloader -->
-    <div id="preloader">
-        <div id="status">&nbsp;</div>
-    </div>
         <header class="main-header" data-spy="affix" data-offset-top="1">
         <!-- navbar starts-->
         <div class="navbar rett navbar-default">
